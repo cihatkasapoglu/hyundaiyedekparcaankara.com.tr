@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyundaiyedekparcaankara.com.tr/sitemap.xml
